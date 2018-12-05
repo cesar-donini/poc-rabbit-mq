@@ -1,0 +1,8 @@
+spring:
+  rabbitmq:
+    host: localhost
+    username: guest
+    password: guest
+    queue:
+      poc:
+        name: poc-rabbitmq
